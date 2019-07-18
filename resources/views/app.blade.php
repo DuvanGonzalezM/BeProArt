@@ -4,11 +4,9 @@
 <body>
 	{{-- HEADER --}}
 @include('layouts.header')
-<div class="container-fluid">
-	<div class="row">
-			{{-- SECTION --}}
-		@include('layouts.section')
-	</div>
+<div class="container">
+		{{-- SECTION --}}
+	@include('layouts.section')
 </div>
 	{{-- FOOTER --}}
 @include('layouts.footer')
