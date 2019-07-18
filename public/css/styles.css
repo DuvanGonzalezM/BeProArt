@@ -1,3 +1,4 @@
+/*Header*/
 header{
 	padding-top: 15px;
 	border-bottom: 2px solid #7A7E7A;
@@ -13,4 +14,8 @@ header{
 #slogan{
 	padding-top: 10px;
 	text-align: center;
+}
+/*Section*/
+section{
+	border-left: 2px solid #7A7E7A;
 }

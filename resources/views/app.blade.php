@@ -4,17 +4,11 @@
 <body>
 	{{-- HEADER --}}
 @include('layouts.header')
-<div class="col-md-1">
-		{{-- ASIDE --}}
-	@include('layouts.aside')
-</div>
-<div class="col-md-11">
-		{{-- SECTION --}}
-	@include('layouts.section')
-</div>
-<div class="col-md-12">
-		{{-- FOOTER --}}
-	@include('layouts.footer')
-</div>
+	{{-- ASIDE --}}
+@include('layouts.aside')
+	{{-- SECTION --}}
+@include('layouts.section')
+	{{-- FOOTER --}}
+@include('layouts.footer')
 </body>
 </html>
