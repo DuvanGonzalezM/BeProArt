@@ -1,9 +1,9 @@
-<header>
-	<div class="row justify-content-center">
-		<div class="col-md-2" id="logo">
+<header class="navbar navbar-expand navbar-dark flex-column flex-md-row bd-navbar">
+	{{-- <div class="row justify-content-center"> --}}
+		<div class="col-lg-2" id="logo">
 			<label class="h4">BeProArt</label>
 		</div>
-		<div class="form-group col-md-6" id="seeker">
+		<div class="form-group col-lg-6" id="seeker">
 			<form>
 				<div class="input-group">
 					<div class="input-group-prepend">
@@ -23,8 +23,8 @@
 				</div>
 			</form>
 		</div>
-		<div class="col-md-3" id="slogan">
+		<div class="col-lg-4 pull-right" id="slogan">
 			<label class="h4">All Articles the best price</label>
 		</div>
-	</div>
+	{{-- </div> --}}
 </header>

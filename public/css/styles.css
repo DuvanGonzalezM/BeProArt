@@ -1,21 +1,21 @@
 /*Header*/
 header{
-	padding-top: 15px;
+	padding-top: 10px;
 	border-bottom: 2px solid #7A7E7A;
+	margin-bottom: 20px;
 }
 #logo{
-	padding-top: 10px;
 	text-align: center;
 }
 #seeker{
+	padding-top: 5px;
 	margin-left: 10px;
 	margin-right: 10px;
 }
 #slogan{
-	padding-top: 10px;
 	text-align: center;
 }
 /*Section*/
 section{
-	border-left: 2px solid #7A7E7A;
+	/* border-left: 2px solid #7A7E7A; */
 }
