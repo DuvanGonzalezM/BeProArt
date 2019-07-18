@@ -1,3 +1,3 @@
 <aside>
-	<img src="/img/banner.jpg">
+	<img src="/img/banner.jpg" id="advertisingbanner">
 </aside>
