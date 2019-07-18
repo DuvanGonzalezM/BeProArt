@@ -1,4 +1,4 @@
-<footer class="navbar navbar-expand">
+<footer class="navbar navbar-expand bg-secondary">
 	<div id="contactUs" class="col-lg-2">
 		<a href="#"><i class="fas fa-envelope"></i> Contactenos</a>
 	</div>

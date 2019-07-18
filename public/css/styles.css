@@ -4,6 +4,14 @@ header{
 	border-bottom: 2px solid #7A7E7A;
 	margin-bottom: 20px;
 	height: 4.5rem !important;
+	/* background-color: #6c757d; */
+	color:  #3490dc;
+	font-weight: 900;
+}
+.affix {
+	top: 0;
+	width: 100%;
+	z-index: 9999 !important;
 }
 #logo{
 	text-align: center;
@@ -24,7 +32,9 @@ section{
 /*Aside / Banner*/
 aside{
 	width: 90%;
-	height: 35rem;
+	height: 30rem;
+	position: sticky;
+	top: 5.1rem;
 }
 #advertisingbanner, #advertisingbanner>img{
 	width: 100%;
@@ -36,6 +46,10 @@ footer{
 	border-top: 2px solid #7A7E7A;
 	margin-top: 20px;
 	text-align: center;
-	color: black;
+	/* background-color: #6c757d; */
+	color:  #3490dc;
+	font-weight: 900;
 	height: 4.5rem !important;
+	/* position: fixed; */
+	/* bottom: 0; */
 }

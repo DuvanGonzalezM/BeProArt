@@ -1,4 +1,4 @@
-<header class="navbar navbar-expand">
+<header class="navbar navbar-expand bg-secondary sticky-top">
 	<div class="col-lg-2" id="logo" style="padding-left: 0;">
 		<label class="h4">BeProArt</label>
 	</div>
@@ -6,7 +6,7 @@
 		<form>
 			<div class="input-group">
 				<div class="input-group-prepend">
-					<button class="btn btn-secondary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Todas</button>
+					<button class="btn btn-light dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Todas</button>
 					<div class="dropdown-menu" style="background-color: #6c757d;">
 						<a class="dropdown-item" href="#">Tecnologia</a>
 						<a class="dropdown-item" href="#">Ropa</a>

@@ -2,6 +2,7 @@
 	<title>BeProArt - @yield('title')</title>
 	<!-- Required meta tags -->
 	<meta charset="utf-8">
+	<meta name="csrf-token" content="{{ csrf_token() }}">
 	<meta name="description" content="Best Prices on Articles">
 	<meta name="keywords" content="Prices,Articles,Best,Stores,Web">
 	<meta name="author" content="Duvan Gonzalez">
