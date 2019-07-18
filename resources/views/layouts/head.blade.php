@@ -1,5 +1,5 @@
 <head>
-	<title>BeProArt</title>
+	<title>BeProArt - @yield('title')</title>
 	<!-- Required meta tags -->
 	<meta charset="utf-8">
 	<meta name="description" content="Best Prices on Articles">
