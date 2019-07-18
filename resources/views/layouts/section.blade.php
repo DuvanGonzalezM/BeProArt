@@ -5,7 +5,7 @@
 		</div>
 		<div class="container" id="favorite">
 			<div class="row">
-				<div class="card col-sm-2">
+				<div class="card col-sm-2" style="margin-left: 0.63rem; margin-right: 0.63rem;">
 					<div class="card-body">
 						<h5 class="card-title">
 							<b>Moda</b>
@@ -15,7 +15,7 @@
 						</p>
 					</div>
 				</div>
-				<div class="card col-sm-2">
+				<div class="card col-sm-2" style="margin-left: 0.63rem; margin-right: 0.63rem;">
 					<div class="card-body">
 						<h5 class="card-title">
 							<b>Tecnologia</b>
@@ -25,7 +25,7 @@
 						</p>
 					</div>
 				</div>
-				<div class="card col-sm-2">
+				<div class="card col-sm-2" style="margin-left: 0.63rem; margin-right: 0.63rem;">
 					<div class="card-body">
 						<h5 class="card-title">
 							<b>Moda</b>
@@ -35,7 +35,7 @@
 						</p>
 					</div>
 				</div>
-				<div class="card col-sm-2">
+				<div class="card col-sm-2" style="margin-left: 0.63rem; margin-right: 0.63rem;">
 					<div class="card-body">
 						<h5 class="card-title">
 							<b>Tecnologia</b>
@@ -45,23 +45,13 @@
 						</p>
 					</div>
 				</div>
-				<div class="card col-sm-2">
+				<div class="card col-sm-2" style="margin-left: 0.63rem; margin-right: 0.63rem;">
 					<div class="card-body">
 						<h5 class="card-title">
 							<b>Moda</b>
 						</h5>
 						<p class="card-text">
 							Una moda x
-						</p>
-					</div>
-				</div>
-				<div class="card col-sm-2">
-					<div class="card-body">
-						<h5 class="card-title">
-							<b>Tecnologia</b>
-						</h5>
-						<p class="card-text">
-							La mejor tecnologia
 						</p>
 					</div>
 				</div>
@@ -75,7 +65,7 @@
 		</div>
 		<div class="container" id="favorite">
 			<div class="row">
-				<div class="card col-sm-2">
+				<div class="card col-sm-2" style="margin-left: 0.63rem; margin-right: 0.63rem;">
 					<div class="card-body">
 						<h5 class="card-title">
 							<b>Moda</b>
@@ -85,7 +75,7 @@
 						</p>
 					</div>
 				</div>
-				<div class="card col-sm-2">
+				<div class="card col-sm-2" style="margin-left: 0.63rem; margin-right: 0.63rem;">
 					<div class="card-body">
 						<h5 class="card-title">
 							<b>Tecnologia</b>
@@ -95,7 +85,7 @@
 						</p>
 					</div>
 				</div>
-				<div class="card col-sm-2">
+				<div class="card col-sm-2" style="margin-left: 0.63rem; margin-right: 0.63rem;">
 					<div class="card-body">
 						<h5 class="card-title">
 							<b>Moda</b>
@@ -105,7 +95,7 @@
 						</p>
 					</div>
 				</div>
-				<div class="card col-sm-2">
+				<div class="card col-sm-2" style="margin-left: 0.63rem; margin-right: 0.63rem;">
 					<div class="card-body">
 						<h5 class="card-title">
 							<b>Tecnologia</b>
@@ -115,23 +105,13 @@
 						</p>
 					</div>
 				</div>
-				<div class="card col-sm-2">
+				<div class="card col-sm-2" style="margin-left: 0.63rem; margin-right: 0.63rem;">
 					<div class="card-body">
 						<h5 class="card-title">
 							<b>Moda</b>
 						</h5>
 						<p class="card-text">
 							Una moda x
-						</p>
-					</div>
-				</div>
-				<div class="card col-sm-2">
-					<div class="card-body">
-						<h5 class="card-title">
-							<b>Tecnologia</b>
-						</h5>
-						<p class="card-text">
-							La mejor tecnologia
 						</p>
 					</div>
 				</div>
@@ -145,7 +125,7 @@
 		</div>
 		<div class="container" id="favorite">
 			<div class="row">
-				<div class="card col-sm-2">
+				<div class="card col-sm-2" style="margin-left: 0.63rem; margin-right: 0.63rem;">
 					<div class="card-body">
 						<h5 class="card-title">
 							<b>Moda</b>
@@ -155,7 +135,7 @@
 						</p>
 					</div>
 				</div>
-				<div class="card col-sm-2">
+				<div class="card col-sm-2" style="margin-left: 0.63rem; margin-right: 0.63rem;">
 					<div class="card-body">
 						<h5 class="card-title">
 							<b>Tecnologia</b>
@@ -165,7 +145,7 @@
 						</p>
 					</div>
 				</div>
-				<div class="card col-sm-2">
+				<div class="card col-sm-2" style="margin-left: 0.63rem; margin-right: 0.63rem;">
 					<div class="card-body">
 						<h5 class="card-title">
 							<b>Moda</b>
@@ -175,7 +155,7 @@
 						</p>
 					</div>
 				</div>
-				<div class="card col-sm-2">
+				<div class="card col-sm-2" style="margin-left: 0.63rem; margin-right: 0.63rem;">
 					<div class="card-body">
 						<h5 class="card-title">
 							<b>Tecnologia</b>
@@ -185,23 +165,13 @@
 						</p>
 					</div>
 				</div>
-				<div class="card col-sm-2">
+				<div class="card col-sm-2" style="margin-left: 0.63rem; margin-right: 0.63rem;">
 					<div class="card-body">
 						<h5 class="card-title">
 							<b>Moda</b>
 						</h5>
 						<p class="card-text">
 							Una moda x
-						</p>
-					</div>
-				</div>
-				<div class="card col-sm-2">
-					<div class="card-body">
-						<h5 class="card-title">
-							<b>Tecnologia</b>
-						</h5>
-						<p class="card-text">
-							La mejor tecnologia
 						</p>
 					</div>
 				</div>
@@ -215,7 +185,7 @@
 		</div>
 		<div class="container" id="favorite">
 			<div class="row">
-				<div class="card col-sm-2">
+				<div class="card col-sm-2" style="margin-left: 0.63rem; margin-right: 0.63rem;">
 					<div class="card-body">
 						<h5 class="card-title">
 							<b>Moda</b>
@@ -225,7 +195,7 @@
 						</p>
 					</div>
 				</div>
-				<div class="card col-sm-2">
+				<div class="card col-sm-2" style="margin-left: 0.63rem; margin-right: 0.63rem;">
 					<div class="card-body">
 						<h5 class="card-title">
 							<b>Tecnologia</b>
@@ -235,7 +205,7 @@
 						</p>
 					</div>
 				</div>
-				<div class="card col-sm-2">
+				<div class="card col-sm-2" style="margin-left: 0.63rem; margin-right: 0.63rem;">
 					<div class="card-body">
 						<h5 class="card-title">
 							<b>Moda</b>
@@ -245,7 +215,7 @@
 						</p>
 					</div>
 				</div>
-				<div class="card col-sm-2">
+				<div class="card col-sm-2" style="margin-left: 0.63rem; margin-right: 0.63rem;">
 					<div class="card-body">
 						<h5 class="card-title">
 							<b>Tecnologia</b>
@@ -255,23 +225,13 @@
 						</p>
 					</div>
 				</div>
-				<div class="card col-sm-2">
+				<div class="card col-sm-2" style="margin-left: 0.63rem; margin-right: 0.63rem;">
 					<div class="card-body">
 						<h5 class="card-title">
 							<b>Moda</b>
 						</h5>
 						<p class="card-text">
 							Una moda x
-						</p>
-					</div>
-				</div>
-				<div class="card col-sm-2">
-					<div class="card-body">
-						<h5 class="card-title">
-							<b>Tecnologia</b>
-						</h5>
-						<p class="card-text">
-							La mejor tecnologia
 						</p>
 					</div>
 				</div>
@@ -285,7 +245,7 @@
 		</div>
 		<div class="container" id="favorite">
 			<div class="row">
-				<div class="card col-sm-2">
+				<div class="card col-sm-2" style="margin-left: 0.63rem; margin-right: 0.63rem;">
 					<div class="card-body">
 						<h5 class="card-title">
 							<b>Moda</b>
@@ -295,7 +255,7 @@
 						</p>
 					</div>
 				</div>
-				<div class="card col-sm-2">
+				<div class="card col-sm-2" style="margin-left: 0.63rem; margin-right: 0.63rem;">
 					<div class="card-body">
 						<h5 class="card-title">
 							<b>Tecnologia</b>
@@ -305,7 +265,7 @@
 						</p>
 					</div>
 				</div>
-				<div class="card col-sm-2">
+				<div class="card col-sm-2" style="margin-left: 0.63rem; margin-right: 0.63rem;">
 					<div class="card-body">
 						<h5 class="card-title">
 							<b>Moda</b>
@@ -315,7 +275,7 @@
 						</p>
 					</div>
 				</div>
-				<div class="card col-sm-2">
+				<div class="card col-sm-2" style="margin-left: 0.63rem; margin-right: 0.63rem;">
 					<div class="card-body">
 						<h5 class="card-title">
 							<b>Tecnologia</b>
@@ -325,23 +285,13 @@
 						</p>
 					</div>
 				</div>
-				<div class="card col-sm-2">
+				<div class="card col-sm-2" style="margin-left: 0.63rem; margin-right: 0.63rem;">
 					<div class="card-body">
 						<h5 class="card-title">
 							<b>Moda</b>
 						</h5>
 						<p class="card-text">
 							Una moda x
-						</p>
-					</div>
-				</div>
-				<div class="card col-sm-2">
-					<div class="card-body">
-						<h5 class="card-title">
-							<b>Tecnologia</b>
-						</h5>
-						<p class="card-text">
-							La mejor tecnologia
 						</p>
 					</div>
 				</div>
@@ -355,7 +305,7 @@
 		</div>
 		<div class="container" id="favorite">
 			<div class="row">
-				<div class="card col-sm-2">
+				<div class="card col-sm-2" style="margin-left: 0.63rem; margin-right: 0.63rem;">
 					<div class="card-body">
 						<h5 class="card-title">
 							<b>Moda</b>
@@ -365,7 +315,7 @@
 						</p>
 					</div>
 				</div>
-				<div class="card col-sm-2">
+				<div class="card col-sm-2" style="margin-left: 0.63rem; margin-right: 0.63rem;">
 					<div class="card-body">
 						<h5 class="card-title">
 							<b>Tecnologia</b>
@@ -375,7 +325,7 @@
 						</p>
 					</div>
 				</div>
-				<div class="card col-sm-2">
+				<div class="card col-sm-2" style="margin-left: 0.63rem; margin-right: 0.63rem;">
 					<div class="card-body">
 						<h5 class="card-title">
 							<b>Moda</b>
@@ -385,7 +335,7 @@
 						</p>
 					</div>
 				</div>
-				<div class="card col-sm-2">
+				<div class="card col-sm-2" style="margin-left: 0.63rem; margin-right: 0.63rem;">
 					<div class="card-body">
 						<h5 class="card-title">
 							<b>Tecnologia</b>
@@ -395,23 +345,13 @@
 						</p>
 					</div>
 				</div>
-				<div class="card col-sm-2">
+				<div class="card col-sm-2" style="margin-left: 0.63rem; margin-right: 0.63rem;">
 					<div class="card-body">
 						<h5 class="card-title">
 							<b>Moda</b>
 						</h5>
 						<p class="card-text">
 							Una moda x
-						</p>
-					</div>
-				</div>
-				<div class="card col-sm-2">
-					<div class="card-body">
-						<h5 class="card-title">
-							<b>Tecnologia</b>
-						</h5>
-						<p class="card-text">
-							La mejor tecnologia
 						</p>
 					</div>
 				</div>
