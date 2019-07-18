@@ -1,0 +1,7 @@
+Base de datos:
+tabla de productos
+link
+descripcion
+precio
+categoria
+empresa/pagina
