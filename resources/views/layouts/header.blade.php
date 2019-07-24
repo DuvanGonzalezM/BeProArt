@@ -5,7 +5,8 @@
 				<label class="h4">BeProArt</label>
 			</div>
 			<div class="form-group col-lg-6" id="seeker">
-				<form>
+				<form action="/s" method="GET">
+					{{-- @csrf --}}
 					<div class="input-group">
 						<div class="input-group-prepend">
 							<button class="btn btn-light dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Todas</button>
@@ -17,7 +18,7 @@
 								<a class="dropdown-item" href="#">Separated link</a>
 							</div>
 						</div>
-						<input type="text" name="seeker" class="form-control form-control-lg form-control-borderless" placeholder="Laptop, Tv, Clothing, etc...">
+						<input type="text" name="seeker" class="form-control form-control-lg form-control-borderless" placeholder="Laptop, Tv, Clothing, etc..." value="{{isset($_GET['seeker']) ? $_GET['seeker'] : ''}}">
 						<div class="input-group-append">
 							<button type="submit" class="btn btn-success btn-lg input-group-btn"><i class="fas fa-search"></i></button>
 						</div>

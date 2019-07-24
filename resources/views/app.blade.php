@@ -6,7 +6,7 @@
 @include('layouts.header')
 <div class="container">
 		{{-- SECTION --}}
-	@include('layouts.section')
+	@yield('section')
 </div>
 	{{-- FOOTER --}}
 @include('layouts.footer')

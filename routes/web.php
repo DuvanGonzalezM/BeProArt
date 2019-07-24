@@ -14,3 +14,4 @@
 Route::get('/', function () {
 	return view('home');
 });
+Route::get('/s', 'Busqueda@result');
